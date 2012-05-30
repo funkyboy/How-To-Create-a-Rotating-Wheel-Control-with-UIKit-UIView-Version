@@ -4,9 +4,8 @@ Here is a screenshot of the final result
 
 ![The final result](https://github.com/funkyboy/How-To-Create-a-Rotating-Wheel-Control-with-UIKit/blob/master/final.png?raw=true "The final result")
 
-Here is a quick video.
+Here is a [demo video](https://vimeo.com/36279803).
 
-<iframe src="http://player.vimeo.com/video/36279803" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 In case you want to use this code in your projects, you can.
 Just check out the license.txt file for attribution.
